@@ -23,12 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shamir maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shamir maharjan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shamir maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamir maharjan" height="30" width="40" /></a>
-<a href="https://kaggle.com/shamir maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shamir maharjan" height="30" width="40" /></a>
-<a href="https://fb.com/shamir maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamir maharjan" height="30" width="40" /></a>
+<a href="https://kaggle.com/shamirmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shamirmaharjan" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100080682258037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080682258037" height="30" width="40" /></a>
 <a href="https://instagram.com/shamir_maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamir_maharjan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithsage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithsage" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@shamirmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shamirmaharjan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shamirmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamirmaharjan" height="30" width="40" /></a>
 <a href="https://discord.gg/shamirmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shamirmaharjan" height="30" width="40" /></a>
 </p>
