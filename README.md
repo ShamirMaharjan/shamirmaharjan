@@ -1,38 +1,212 @@
 <h1 align="center">Hi 👋, I'm Shamir Maharjan</h1>
-<h3 align="center">Full-Stack Developer building AI-powered game characters and local-LLM tools</h3>
-
-- 🔭 I’m currently working on [One Piece with AI NPC](https://github.com/ShamirMaharjan/One-Piece-with-AI-NPC)
-
-- 🌱 I’m currently learning **Local LLMs (Ollama, Gemma), AI agents, and machine learning**
-
-- 👯 I’m looking to collaborate on [AI NPC dialogue and memory systems](https://github.com/ShamirMaharjan/One-Piece-with-AI-NPC)
-
-- 🤝 I’m looking for help with **OpenClaw with local models (gemma4:12b via Ollama)**
-
-- 👨‍💻 All of my projects are available at [https://shamirmaharjan-portfolio.pages.dev/](https://shamirmaharjan-portfolio.pages.dev/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shamir-maharjan-7326872ab/](https://www.linkedin.com/in/shamir-maharjan-7326872ab/)
-
-- 💬 Ask me about **TypeScript, Go, Node.js, React.js, Java, Python**
-
-- 📫 How to reach me **shamirmaharjan07@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shamir-maharjan-7326872ab/](https://www.linkedin.com/in/shamir-maharjan-7326872ab/)
-
-- ⚡ Fun fact **I'm teaching NPCs to act like pirates 🏴‍☠️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shamir-maharjan-7326872ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamir maharjan" height="30" width="40" /></a>
-<a href="https://kaggle.com/shamirmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shamirmaharjan" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100080682258037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080682258037" height="30" width="40" /></a>
-<a href="https://instagram.com/shamir_maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamir_maharjan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@shamirmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shamirmaharjan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shamirmaharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamirmaharjan" height="30" width="40" /></a>
-<a href="https://discord.gg/kDJAegEAag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shamirmaharjan" height="30" width="40" /></a>
+ 
+<h3 align="center">Full-Stack Developer · AI/ML · AI Agents · Local LLMs</h3>
+ 
+<p align="center">
+  Building software systems and exploring how AI agents and local LLMs can interact with real-world applications.
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamirmaharjan&" alt="shamirmaharjan" /></p>
+<p align="center">
+  <a href="https://github.com/ShamirMaharjan">
+    <img src="https://komarev.com/ghpvc/?username=ShamirMaharjan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ShamirMaharjan?tab=followers">
+    <img src="https://img.shields.io/github/followers/ShamirMaharjan?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+</p>
+---
+ 
+## 👨‍💻 About Me
+ 
+I'm a **Computer Science graduate and Full-Stack Developer** interested in building reliable software and integrating AI into real-world applications.
+ 
+I enjoy working across the stack: responsive interfaces, REST APIs, databases, deployment, and troubleshooting production systems. I'm especially interested in the intersection of **software engineering and artificial intelligence**, where models are not isolated components but can interact with APIs, databases, tools, and workflows.
+ 
+My path so far:
+ 
+**Full-Stack Development → Backend Engineering → AI/ML → LLMs → AI Agents**
+ 
+I learn by building real systems, investigating failures, and documenting what I find.
+ 
+> **Build → Break → Understand → Improve**
+ 
+---
+ 
+## 🔭 What I'm Working On
+ 
+### 🎮 One Piece with AI NPC
+ 
+An experimental game exploring LLM-powered NPCs that respond dynamically to players instead of relying on predefined dialogue.
+ 
+- AI-powered NPC dialogue and conversation context
+- NPC memory and character behaviour
+- Game state and AI interaction
+- Real-time AI responses
+🔗 **[View the project →](https://github.com/ShamirMaharjan/One-Piece-with-AI-NPC)**
+ 
+### 🤖 AI Agent Experiments
+ 
+I'm contributing to work on running **OpenClaw with local models** (such as Gemma via Ollama), focusing on tool-using agents:
+ 
+- Terminal and browser interaction
+- Tool calling and API interaction
+- Filesystem operations
+- Agent orchestration and feedback loops
+> **Open question I'm exploring:** how can we make tool-using AI agents more reliable?
+ 
+---
+ 
+## 🛠️ Technologies
+ 
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Tools</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
+    </td>
+  </tr>
+</table>
+**Focus areas:** Machine Learning · NLP · LLM Applications · AI Agents · Backend Architecture
+ 
+---
+ 
+## 🚀 Featured Projects
+ 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 One Piece with AI NPC</h3>
+      <p>Experimental game exploring LLM-powered NPCs, dynamic conversations, memory, and character behaviour.</p>
+      <p><b>Focus:</b> LLMs · Game AI · Memory</p>
+      <a href="https://github.com/ShamirMaharjan/One-Piece-with-AI-NPC">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Chat App</h3>
+      <p>Full-stack chat application integrating AI capabilities into a modern web app.</p>
+      <p><b>Focus:</b> React · Backend · AI Integration</p>
+      <a href="https://github.com/ShamirMaharjan/Ai-Chat-App">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 GreenCycle</h3>
+      <p>Waste-management platform built as a team project using Agile/Scrum. I served as Project Manager.</p>
+      <p><b>Focus:</b> Full-Stack · Agile · Team Leadership</p>
+      <a href="https://github.com/ShamirMaharjan/GreenCycle-Tech">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Product Store</h3>
+      <p>Full-stack application covering product management, REST APIs, and database integration.</p>
+      <p><b>Focus:</b> Full-Stack · REST APIs · Database</p>
+      <a href="https://github.com/ShamirMaharjan/Product-Store">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Machine Learning</h3>
+      <p>A collection of machine learning experiments covering practical ML concepts and implementations.</p>
+      <p><b>Focus:</b> Python · Machine Learning · Data Science</p>
+      <a href="https://github.com/ShamirMaharjan/Machine-Learning">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌦️ Weather App</h3>
+      <p>Web application integrating external weather APIs with a responsive user interface.</p>
+      <p><b>Focus:</b> React · APIs · Frontend</p>
+      <a href="https://github.com/ShamirMaharjan/Weather-App">View repository →</a>
+    </td>
+  </tr>
+</table>
+---
+ 
+## 🎯 Current Focus
+ 
+| Area | Focus |
+|---|---|
+| 🤖 AI Agents | Tool use, orchestration, execution, and reliability |
+| 🧠 Local LLMs | Local inference with Ollama and LLM-powered applications |
+| 🎮 AI NPCs | Dialogue, memory, and dynamic behaviour |
+| 🧪 Machine Learning & NLP | Fundamentals and practical experimentation |
+| ⚙️ Backend | APIs, architecture, and scalable services |
+| 🐳 DevOps | Docker, Linux, Nginx, and CI/CD |
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShamirMaharjan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamirMaharjan&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages" />
+</p>
+---
+ 
+## ✍️ Writing
+ 
+I share what I'm learning and building, mainly on AI agents, local LLMs, backend development, and debugging real-world engineering problems.
+ 
+📖 [Read my posts on LinkedIn →](https://www.linkedin.com/in/shamir-maharjan-7326872ab/)
+ 
+---
+ 
+## 🌐 Connect
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shamir-maharjan-7326872ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/shamirmaharjan">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://leetcode.com/shamirmaharjan">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="mailto:shamirmaharjan07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+<p align="center">
+  <b>Build. Break. Learn. Repeat.</b><br />
+  <i>Currently teaching NPCs to talk like pirates 🏴‍☠️</i>
+</p>
+ 
